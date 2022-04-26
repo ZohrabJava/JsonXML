@@ -1,0 +1,15 @@
+{
+  "firstName" : "Ando",
+  "lastName" : "Hovhannisyan",
+  "age" : 25,
+  "address" : {
+    "city" : "Yerevan",
+    "country" : "Armenia",
+    "street" : "Sayran",
+    "postalCode" : "2510"
+  },
+  "phoneNumbers" : [ {
+    "phoneType" : "Home",
+    "number" : "+37477555688"
+  } ]
+}

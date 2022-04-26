@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <firstName>Ando</firstName>
+    <lastName>Hovhannisyan</lastName>
+    <age>25</age>
+    <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+        <postalCode>2510</postalCode>
+        <street>Sayran</street>
+    </address>
+    <phoneNumbers>
+        <number>+37477555688</number>
+        <phoneType>Home</phoneType>
+    </phoneNumbers>
+</employeeXML>
